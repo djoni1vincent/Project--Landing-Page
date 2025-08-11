@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 130px;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    margin-right: 130px;
+}
+nav a {
+    text-decoration: none;
+}
